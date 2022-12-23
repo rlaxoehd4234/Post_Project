@@ -2,6 +2,8 @@
 -Spring Boot, Spring MVC, Spring Data JPA
 -Spring Thymeleaf
 -MySQL
+-Spring Security
+-Lombok
 
 주요기능
 -게시물 등록,삭제,수정
